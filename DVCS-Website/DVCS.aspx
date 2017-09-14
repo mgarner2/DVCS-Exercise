@@ -13,6 +13,9 @@
             <label for="fname">First Name</label>
             <input type="text" name="fname" id="fname" />
         </div>
+        <div>
+            <input type="button" name="submit" id="submit" value="submit"/>
+        </div>
     </form>
 </body>
 </html>
