@@ -10,6 +10,8 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <label for="fname">First Name</label>
+            <input type="text" name="fname" id="fname" />
         </div>
     </form>
 </body>
